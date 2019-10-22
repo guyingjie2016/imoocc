@@ -94,7 +94,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'imoocc',
         'USER': 'imoocc',
-        'PASSWORD': 'imoocccom',
+        'PASSWORD': '123456',
         'HOST': '127.0.0.1',
         'PORT': '',
         'OPTIONS': {},
